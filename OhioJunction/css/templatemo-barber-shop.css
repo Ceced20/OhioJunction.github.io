@@ -344,7 +344,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('/images/Siti.png');
+  background-image: url('https://cdn.glitch.global/a02f63d3-0ad2-4f3c-97cc-ea845fb86f08/Siti.png?v=1674263107925');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -446,7 +446,7 @@ strong {
   FEATURED               
 -----------------------------------------*/
 .featured-section {
-  background-image: url('/images/Siti.png');
+  background-image: url('https://cdn.glitch.global/a02f63d3-0ad2-4f3c-97cc-ea845fb86f08/Siti.png?v=1674263107925');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
